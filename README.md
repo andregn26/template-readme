@@ -17,7 +17,9 @@
     The development of a landing page for SoulDance, a small dance school, involved a thorough understanding of the target audience and the unique selling points of the school. As a former marketeer I focused on creating a visually appealing and user-friendly page that would effectively showcase the school's offerings. The page includes clear and concise information about the school's mission and class schedule. I also added a contact form for inquiries. With its engaging design and easy navigation, the landing page is working as a platform to attract new students and collect leads to SoulDance.
     <br />
     <br />
-    <a href="">Report Bug</a>
+        <a href="" target="_blank">View Demo</a>
+    ·
+    <a href="" target="_blank">Report Bug</a>
     
   </p>
 </div>
